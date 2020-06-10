@@ -1,0 +1,53 @@
+.navbar{
+    background-color: #ffffff;
+    background-size: cover;
+}
+
+.nav-item{
+    font-family: 'Alegreya Sans', sans-serif;
+}
+
+.h{
+    text-align: left;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: large;
+    margin-left: 10px;
+}
+
+.p{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    position: relative;
+    top: 33px;
+    left:10px;
+}
+
+
+.jumbotron {
+    background-image: url("../Images/Rectangle\ 97.png");
+    background-size: cover;
+}
+
+.body{
+    background-color: #F0D3c0;
+}
+
+.display-4 , .lead{
+    padding-top: 2%;
+    padding-left: 4%;
+    color:white;
+}
+
+.container{
+    justify-content: center;
+    align-items: center;
+}
+
+.in{
+    justify-content: center;
+    align-items: center;
+    padding-top: 15%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
